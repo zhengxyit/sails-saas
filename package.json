@@ -85,7 +85,7 @@
     "sails-build-dictionary": "~0.10.1",
     "sails-disk": "~0.10.9",
     "sails-generate": "~0.13.0",
-    "sails-hook-orm": "~1.0.6",
+    "sails-hook-orm": "git://github.com/zhengxyit/sails-sass-hook-orm.git#master",
     "sails-hook-sockets": "~0.13.0",
     "sails-stringfile": "~0.3.2",
     "sails-util": "~0.11.0",
@@ -95,7 +95,7 @@
     "skipper": "~0.6.0",
     "uid-safe": "1.1.0",
     "walk": "2.3.9",
-    "waterline-saas": "git://github.com/zhengxyit/waterline-saas.git#master"
+    "waterline": "~0.11.0"
   },
   "devDependencies": {
     "benchmark": "1.0.0",
