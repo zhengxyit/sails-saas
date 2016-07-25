@@ -95,7 +95,7 @@
     "skipper": "~0.6.0",
     "uid-safe": "1.1.0",
     "walk": "2.3.9",
-    "waterline": "~0.11.0"
+    "waterline": "git://github.com/zhengxyit/waterline-saas.git#master"
   },
   "devDependencies": {
     "benchmark": "1.0.0",
